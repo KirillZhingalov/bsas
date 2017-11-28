@@ -1,0 +1,6 @@
+lighttpd
+lighttpd-fastcgi
+django
+sshtunnel
+psycopg2
+envparse
